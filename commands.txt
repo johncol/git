@@ -10,6 +10,8 @@ git rm --cached filename // removes from the stage the changes made to the file 
 
 git add . // adds all changes to the stage area
 
+git commit -a // add to stage and commit all files that have been previously added to stage
+
 ------------------------------- VIM editor:
 
 esc to stop writing in the file 
