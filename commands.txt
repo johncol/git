@@ -9,3 +9,10 @@ git add filename // adds to stage the changes made to the file indicated
 git rm --cached filename // removes from the stage the changes made to the file indicated
 
 git add . // adds all changes to the stage area
+
+------------------------------- VIM editor:
+
+esc to stop writing in the file 
+
+when esp pressed, enter :wq to save the file
+
