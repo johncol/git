@@ -2,6 +2,8 @@ git config --system namespace.property value
 git config --global namespace.property value
 git config --local namespace.property value (= git config namespace.property value)
 
+git status
+
 git init // initializes a git project in the current folder
 
 git add filename // adds to stage the changes made to the file indicated
