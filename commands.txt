@@ -26,7 +26,7 @@ when esp pressed, enter :wq to save the file
 
 -------------------------------- learned because of github
 
-git remote add origin https://github.com/johncol/prueba.git // add a remote repository called origins (i think so)
+git remote add origin https://github.com/johncol/prueba.git // add a remote repository called origin (i think so)
 
 git push -u origin master // push my committed changes to origin repository (defined previously) in the master branch
 
