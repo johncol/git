@@ -31,3 +31,10 @@ git remote add origin https://github.com/johncol/prueba.git // add a remote repo
 git push -u origin master // push my committed changes to origin repository (defined previously) in the master branch
 
 git pull -u origin master
+
+-------------------------------- learned because of stackoverflow
+
+git config push.default upstream // config git to execute "git push" and only push commits from the branch you are on
+
+git update-index --assume-unchanged <<file>> // make a tracked file appear as not having any modifications
+git update-index --no-assume-unchanged <<file>> // show the modifications again
